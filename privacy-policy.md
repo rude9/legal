@@ -1,6 +1,6 @@
 # Privacy Policy
 
-`Last modified: April 2018`
+Last modified: `April 2018`
 
 ## 1. General
 

@@ -1,6 +1,6 @@
 # Terms of Service
 
-`Last modified: April 2018`
+Last modified: `April 2018`
 
 ## 1. Terms
 
