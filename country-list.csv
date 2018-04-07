@@ -1,210 +1,211 @@
-Albania
-Algeria
-Andorra
-Angola
-Anguilla
-Antigua & Barbuda
-Argentina
-Armenia
-Aruba (cfr NL)
-Australia
-Austria
-Azerbaijan
-Bahamas
-Bahrain
-Bangladesh
-Barbados
-Belarus
-Belgium
-Belize
-Benin
-Bermuda
-Bhutan
-Bolivia
-Bosnia and Herzegovina
-Botswana
-Brazil
-British Virgin Islands
-Brunei
-Bulgaria
-Burkina Faso
-Burundi
-Cambodia
-Cameroon
-Canada
-Cape Verde
-Cayman Islands
-Central African Republic
-Chad
-Chile
-China
-Colombia
-Comoros
-"Congo, Democratic Republic"
-"Congo, Republic of"
-Costa Rica
-Côte d'Ivoire
-Croatia
-Cuba
-Curaçao (cfr NL)
-Cyprus
-Czech Republic
-Denmark
-Djibouti
-Dominica
-Dominican Republic
-Ecuador
-Egypt
-El Salvador
-Equatorial Guinea
-Eritrea
-Estonia
-Ethiopia
-Fiji
-Finland
-France
-Gabon
-Gambia
-Georgia
-Germany
-Ghana
-Gibraltar
-Greece
-Grenada
-Guatemala
-Guernsey
-Guinea
-Guinea Bissau
-Guyana
-Haiti
-Honduras
-Hong Kong
-Hungary
-Iceland
-India
-Indonesia
-Iran
-Iraq
-Ireland
-Isle of Man
-Israel
-Italy
-Jamaica
-Japan
-Jersey
-Jordan
-Kazakhstan
-Kenya
-Kiribati
-Kuwait
-Kyrgyzstan
-Laos
-Latvia
-Lebanon
-Lesotho
-Liberia
-Libya
-Liechtenstein
-Lithuania
-Luxembourg
-Macao
-Macedonia (FYR)
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
-Mauritania
-Mauritius
-Mexico
-Micronesia
-Moldova
-Monaco
-Mongolia
-Montenegro
-Montserrat
-Morocco
-Mozambique
-Myanmar
-Namibia
-Nauru
-Nepal
-Netherlands
-New Zealand
-Nicaragua
-Niger
-Nigeria
-Niue
-North Korea
-Norway
-Oman
-Pakistan
-Palau
-Panama
-Papua New Guinea
-Paraguay
-Peru
-Philippines
-Poland
-Portugal
-Puerto Rico
-Qatar
-Romania
-Russia
-Rwanda
-Saint Kitts and Nevis
-Saint Lucia
-Saint Vincent and the Grenadines
-Samoa
-San Marino
-Sao Tome and Principe
-Saudi Arabia
-Senegal
-Serbia
-Seychelles
-Sierra Leone
-Singapore
-Sint Maarten (NL)
-Slovakia
-Slovenia
-Solomon Islands
-Somalia
-South Africa
-South Korea
-Spain
-Sri Lanka
-Sudan
-"Sudan, Republic of South"
-Suriname
-Swaziland
-Sweden
-Switzerland
-Syria
-Taiwan
-Tajikistan
-Tanzania
-Thailand
-Timor-Leste
-Togo
-Tonga
-Trinidad and Tobago
-Tunisia
-Turkey
-Turkmenistan
-Turks & Caicos Islands
-Tuvalu
-Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
-United States
-Uruguay
-Uzbekistan
-Vanuatu
-Venezuela
-Viet Nam
-Yemen
-Zambia
-Zimbabwe
+name,iso_code
+Algeria,DZ
+Angola,AO
+Anguilla,AI
+Antigua & Barbuda,AG
+Azerbaijan,AZ
+Bangladesh,BD
+Belarus,BY
+Belize,BZ
+Benin,BJ
+Bermuda,BM
+Bolivia,BO
+Bosnia and Herzegovina,BA
+British Virgin Islands,VG
+Burundi,BI
+Cambodia,KH
+Cameroon,CM
+Cayman Islands,KY
+Central African Republic,CF
+Chad,TD
+Colombia,CO
+Comoros,KM
+"Congo, Democratic Republic",CD
+"Congo, Republic of",CG
+Côte d'Ivoire,CI
+Djibouti,DJ
+Dominican Republic,DO
+Ecuador,EC
+Equatorial Guinea,GQ
+Eritrea,ER
+Ethiopia,ET
+Fiji,FJ
+Gabon,GA
+Gambia,GM
+Grenada,GD
+Guinea,GN
+Guinea Bissau,GW
+Guyana,GY
+Haiti,HT
+Honduras,HN
+Iran,IR
+Iraq,IQ
+Kazakhstan,KZ
+Kenya,KE
+Kiribati,KI
+Kyrgyzstan,KG
+Laos,LA
+Lebanon,LB
+Lesotho,LS
+Liberia,LR
+Libya,LY
+Madagascar,MG
+Maldives,MV
+Marshall Islands,MH
+Mauritania,MR
+Micronesia,FM
+Montserrat,MS
+Morocco,MA
+Mozambique,MZ
+Myanmar,MM
+Nauru,NR
+Nepal,NP
+Nicaragua,NI
+Nigeria,NG
+Niue,NU
+North Korea,KP
+Pakistan,PK
+Palau,PW
+Panama,PA
+Papua New Guinea,PG
+Paraguay,PY
+Peru,PE
+Puerto Rico,PR
+Russia,RU
+Rwanda,RW
+Saint Kitts and Nevis,KN
+Sao Tome and Principe,ST
+Sierra Leone,SL
+Solomon Islands,SB
+Somalia,SO
+Sudan,SD
+"Sudan, Republic of South",SS
+Suriname,SR
+Swaziland,SZ
+Syria,SY
+Tajikistan,TJ
+Timor-Leste,TL
+Togo,TG
+Tonga,TO
+Turkmenistan,TM
+Turks & Caicos Islands,TC
+Tuvalu,TV
+Uganda,UG
+Ukraine,UA
+Uzbekistan,UZ
+Vanuatu,VU
+Venezuela,VE
+Viet Nam,VN
+Yemen,YE
+Zambia,ZM
+Zimbabwe,ZW
+Albania,AL
+Andorra,AD
+Argentina,AR
+Armenia,AM
+Aruba (cfr NL),AW
+Bahamas,BS
+Bahrain,BH
+Barbados,BB
+Bhutan,BT
+Botswana,BW
+Brazil,BR
+Brunei,BN
+Bulgaria,BG
+Burkina Faso,BF
+Cape Verde,CV
+Chile,CL
+China,CN
+Costa Rica,CR
+Croatia,HR
+Cuba,CU
+Curaçao (cfr NL),CW
+Cyprus,CY
+Czech Republic,CZ
+Dominica,DM
+Egypt,EG
+El Salvador,SV
+Estonia,EE
+Georgia,GE
+Ghana,GH
+Gibraltar,GI
+Greece,GR
+Guatemala,GT
+Guernsey,GG
+Hong Kong,HK
+Hungary,HU
+India,IN
+Indonesia,ID
+Isle of Man,IM
+Israel,IL
+Jamaica,JM
+Jersey,JE
+Jordan,JO
+Kuwait,KW
+Latvia,LV
+Liechtenstein,LI
+Lithuania,LT
+Macao,MO
+Macedonia (FYR),MK
+Malawi,MW
+Malaysia,MY
+Mali,ML
+Malta,MT
+Mauritius,MU
+Mexico,MX
+Moldova,MD
+Monaco,MC
+Mongolia,MN
+Montenegro,ME
+Namibia,NA
+Niger,NE
+Oman,OM
+Philippines,PH
+Poland,PL
+Qatar,QA
+Romania,RO
+Saint Lucia,LC
+Saint Vincent and the Grenadines,VC
+Samoa,WS
+San Marino,SM
+Saudi Arabia,SA
+Senegal,SN
+Serbia,RS
+Seychelles,SC
+Sint Maarten (NL),SX
+Slovakia,SK
+Slovenia,SI
+South Africa,ZA
+South Korea,KR
+Sri Lanka,LK
+Taiwan,TW
+Tanzania,TZ
+Thailand,TH
+Trinidad and Tobago,TT
+Tunisia,TN
+Turkey,TR
+United Arab Emirates,AE
+Uruguay,UY
+Australia,AU
+Austria,AT
+Belgium,BE
+Canada,CA
+Denmark,DK
+Finland,FI
+France,FR
+Germany,DE
+Iceland,IS
+Ireland,IE
+Italy,IT
+Japan,JP
+Luxembourg,LU
+Netherlands,NL
+New Zealand,NZ
+Norway,NO
+Portugal,PT
+Singapore,SG
+Spain,ES
+Sweden,SE
+Switzerland,CH
+United Kingdom,GB
+United States,US
