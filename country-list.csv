@@ -1,97 +1,207 @@
 name,iso_code
+Albania,AL
 Algeria,DZ
+Andorra,AD
 Angola,AO
 Anguilla,AI
 Antigua & Barbuda,AG
+Argentina,AR
+Armenia,AM
+Aruba (cfr NL),AW
+Australia,AU
+Austria,AT
 Azerbaijan,AZ
+Bahamas,BS
+Bahrain,BH
 Bangladesh,BD
+Barbados,BB
 Belarus,BY
+Belgium,BE
 Belize,BZ
 Benin,BJ
 Bermuda,BM
+Bhutan,BT
 Bolivia,BO
 Bosnia and Herzegovina,BA
+Botswana,BW
+Brazil,BR
 British Virgin Islands,VG
+Brunei,BN
+Bulgaria,BG
+Burkina Faso,BF
 Burundi,BI
 Cambodia,KH
 Cameroon,CM
+Canada,CA
+Cape Verde,CV
 Cayman Islands,KY
 Central African Republic,CF
 Chad,TD
+Chile,CL
+China,CN
 Colombia,CO
 Comoros,KM
 "Congo, Democratic Republic",CD
 "Congo, Republic of",CG
+Costa Rica,CR
 Côte d'Ivoire,CI
+Croatia,HR
+Cuba,CU
+Curaçao (cfr NL),CW
+Cyprus,CY
+Czech Republic,CZ
+Denmark,DK
 Djibouti,DJ
+Dominica,DM
 Dominican Republic,DO
 Ecuador,EC
+Egypt,EG
+El Salvador,SV
 Equatorial Guinea,GQ
 Eritrea,ER
+Estonia,EE
 Ethiopia,ET
 Fiji,FJ
+Finland,FI
+France,FR
 Gabon,GA
 Gambia,GM
+Georgia,GE
+Germany,DE
+Ghana,GH
+Gibraltar,GI
+Greece,GR
 Grenada,GD
+Guatemala,GT
+Guernsey,GG
 Guinea,GN
 Guinea Bissau,GW
 Guyana,GY
 Haiti,HT
 Honduras,HN
+Hong Kong,HK
+Hungary,HU
+Iceland,IS
+India,IN
+Indonesia,ID
 Iran,IR
 Iraq,IQ
+Ireland,IE
+Isle of Man,IM
+Israel,IL
+Italy,IT
+Jamaica,JM
+Japan,JP
+Jersey,JE
+Jordan,JO
 Kazakhstan,KZ
 Kenya,KE
 Kiribati,KI
+Kuwait,KW
 Kyrgyzstan,KG
 Laos,LA
+Latvia,LV
 Lebanon,LB
 Lesotho,LS
 Liberia,LR
 Libya,LY
+Liechtenstein,LI
+Lithuania,LT
+Luxembourg,LU
+Macao,MO
+Macedonia (FYR),MK
 Madagascar,MG
+Malawi,MW
+Malaysia,MY
 Maldives,MV
+Mali,ML
+Malta,MT
 Marshall Islands,MH
 Mauritania,MR
+Mauritius,MU
+Mexico,MX
 Micronesia,FM
+Moldova,MD
+Monaco,MC
+Mongolia,MN
+Montenegro,ME
 Montserrat,MS
 Morocco,MA
 Mozambique,MZ
 Myanmar,MM
+Namibia,NA
 Nauru,NR
 Nepal,NP
+Netherlands,NL
+New Zealand,NZ
 Nicaragua,NI
+Niger,NE
 Nigeria,NG
 Niue,NU
 North Korea,KP
+Norway,NO
+Oman,OM
 Pakistan,PK
 Palau,PW
 Panama,PA
 Papua New Guinea,PG
 Paraguay,PY
 Peru,PE
+Philippines,PH
+Poland,PL
+Portugal,PT
 Puerto Rico,PR
+Qatar,QA
+Romania,RO
 Russia,RU
 Rwanda,RW
 Saint Kitts and Nevis,KN
+Saint Lucia,LC
+Saint Vincent and the Grenadines,VC
+Samoa,WS
+San Marino,SM
 Sao Tome and Principe,ST
+Saudi Arabia,SA
+Senegal,SN
+Serbia,RS
+Seychelles,SC
 Sierra Leone,SL
+Singapore,SG
+Sint Maarten (NL),SX
+Slovakia,SK
+Slovenia,SI
 Solomon Islands,SB
 Somalia,SO
+South Africa,ZA
+South Korea,KR
+Spain,ES
+Sri Lanka,LK
 Sudan,SD
 "Sudan, Republic of South",SS
 Suriname,SR
 Swaziland,SZ
+Sweden,SE
+Switzerland,CH
 Syria,SY
+Taiwan,TW
 Tajikistan,TJ
+Tanzania,TZ
+Thailand,TH
 Timor-Leste,TL
 Togo,TG
 Tonga,TO
+Trinidad and Tobago,TT
+Tunisia,TN
+Turkey,TR
 Turkmenistan,TM
 Turks & Caicos Islands,TC
 Tuvalu,TV
 Uganda,UG
 Ukraine,UA
+United Arab Emirates,AE
+United Kingdom,GB
+United States,US
+Uruguay,UY
 Uzbekistan,UZ
 Vanuatu,VU
 Venezuela,VE
@@ -99,113 +209,3 @@ Viet Nam,VN
 Yemen,YE
 Zambia,ZM
 Zimbabwe,ZW
-Albania,AL
-Andorra,AD
-Argentina,AR
-Armenia,AM
-Aruba (cfr NL),AW
-Bahamas,BS
-Bahrain,BH
-Barbados,BB
-Bhutan,BT
-Botswana,BW
-Brazil,BR
-Brunei,BN
-Bulgaria,BG
-Burkina Faso,BF
-Cape Verde,CV
-Chile,CL
-China,CN
-Costa Rica,CR
-Croatia,HR
-Cuba,CU
-Curaçao (cfr NL),CW
-Cyprus,CY
-Czech Republic,CZ
-Dominica,DM
-Egypt,EG
-El Salvador,SV
-Estonia,EE
-Georgia,GE
-Ghana,GH
-Gibraltar,GI
-Greece,GR
-Guatemala,GT
-Guernsey,GG
-Hong Kong,HK
-Hungary,HU
-India,IN
-Indonesia,ID
-Isle of Man,IM
-Israel,IL
-Jamaica,JM
-Jersey,JE
-Jordan,JO
-Kuwait,KW
-Latvia,LV
-Liechtenstein,LI
-Lithuania,LT
-Macao,MO
-Macedonia (FYR),MK
-Malawi,MW
-Malaysia,MY
-Mali,ML
-Malta,MT
-Mauritius,MU
-Mexico,MX
-Moldova,MD
-Monaco,MC
-Mongolia,MN
-Montenegro,ME
-Namibia,NA
-Niger,NE
-Oman,OM
-Philippines,PH
-Poland,PL
-Qatar,QA
-Romania,RO
-Saint Lucia,LC
-Saint Vincent and the Grenadines,VC
-Samoa,WS
-San Marino,SM
-Saudi Arabia,SA
-Senegal,SN
-Serbia,RS
-Seychelles,SC
-Sint Maarten (NL),SX
-Slovakia,SK
-Slovenia,SI
-South Africa,ZA
-South Korea,KR
-Sri Lanka,LK
-Taiwan,TW
-Tanzania,TZ
-Thailand,TH
-Trinidad and Tobago,TT
-Tunisia,TN
-Turkey,TR
-United Arab Emirates,AE
-Uruguay,UY
-Australia,AU
-Austria,AT
-Belgium,BE
-Canada,CA
-Denmark,DK
-Finland,FI
-France,FR
-Germany,DE
-Iceland,IS
-Ireland,IE
-Italy,IT
-Japan,JP
-Luxembourg,LU
-Netherlands,NL
-New Zealand,NZ
-Norway,NO
-Portugal,PT
-Singapore,SG
-Spain,ES
-Sweden,SE
-Switzerland,CH
-United Kingdom,GB
-United States,US
