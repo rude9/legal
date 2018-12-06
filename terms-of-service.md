@@ -1,14 +1,14 @@
 # Terms of Service
 
-Last modified: `April 2018`
+Last modified: `December 2018`
 
 ## 1. Terms
 
-By accessing the website at https://base58.capital/, you are agreeing to be bound by these terms of service, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+By accessing the websites at https://base58.capital/, https://base58.ch or any of its subdomains (the "Sites"), you are agreeing to be bound by these terms of service, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in the Sites are protected by applicable copyright and trademark law.
 
 ## 2. Use License
 
-Permission is granted to temporarily download one copy of the materials (information or software) on Base58 Capital AG&#39;s website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license, you may not:
+Permission is granted to temporarily download one copy of the materials (information or software) on the Base58 Capital AG Sites for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license, you may not:
 
 - modify or copy the materials;
 - use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
@@ -20,25 +20,25 @@ This license shall automatically terminate if you violate any of these restricti
 
 ## 3. Disclaimer
 
-The materials on Base58 Capital AG&#39;s website are provided on an &#39;as is&#39; basis. Base58 Capital AG makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+The materials on the Base58 Capital AG Sites are provided on an &#39;as is&#39; basis. Base58 Capital AG makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
 
-Further, Base58 Capital AG does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+Further, Base58 Capital AG does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Sites or otherwise relating to such materials or on any sites linked to the Sites.
 
 ## 4. Limitations
 
-In no event shall Base58 Capital AG or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Base58 Capital AG&#39;s website, even if Base58 Capital AG or a Base58 Capital AG authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall Base58 Capital AG or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on the Base58 Capital AG Sites, even if Base58 Capital AG or a Base58 Capital AG authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 ## 5. Accuracy of materials
 
-The materials appearing on Base58 Capital AG website could include technical, typographical, or photographic errors. Base58 Capital AG does not warrant that any of the materials on its website are accurate, complete or current. Base58 Capital AG may make changes to the materials contained on its website at any time without notice. However, Base58 Capital AG does not make any commitment to update the materials.
+The materials appearing on the Base58 Capital AG Sites could include technical, typographical, or photographic errors. Base58 Capital AG does not warrant that any of the materials on its website are accurate, complete or current. Base58 Capital AG may make changes to the materials contained on its Sites at any time without notice. However, Base58 Capital AG does not make any commitment to update the materials.
 
 ## 6. Links
 
-Base58 Capital AG has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Base58 Capital AG of the site. Use of any such linked website is at the user&#39;s own risk.
+Base58 Capital AG has not reviewed all of the sites linked to its Sites and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Base58 Capital AG of the site. Use of any such linked website is at the user&#39;s own risk.
 
 ## 7. Modifications
 
-Base58 Capital AG may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+Base58 Capital AG may revise these terms of service for its Sites at any time without notice. By using the Sites you are agreeing to be bound by the then current version of these terms of service.
 
 ## 8. Governing Law
 

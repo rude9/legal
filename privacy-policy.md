@@ -1,14 +1,14 @@
 # Privacy Policy
 
-Last modified: `April 2018`
+Last modified: `December 2018`
 
 ## 1. General
 
-Base58 Capital AG (&quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates the https://base58.capital/ website (the &quot;Service&quot;).
+Base58 Capital AG (&quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates the Base58 cmsx application available on https://cmsx.base58.ch/ (the &quot;Service&quot;).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://base58.capital/
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible on [GitHub](https://raw.githubusercontent.com/base58capital/legal/master/terms-of-service.md).
 
 ## 2. Definitions
 
@@ -189,5 +189,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- By email: info@base58.capital
+- By email: privacy@base58.ch
 - By mail: Bösch 80A, 6331 Hünenberg, Switzerland
