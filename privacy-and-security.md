@@ -1,6 +1,6 @@
 # Privacy and Security
 
-Last modified: `December 2018`
+Last modified: `January 2019`
 
 ## 1. General
 

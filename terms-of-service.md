@@ -1,10 +1,10 @@
 # Terms of Service
 
-Last modified: `December 2018`
+Last modified: `January 2019`
 
 ## 1. Terms
 
-By accessing the websites at https://base58.capital/, https://base58.ch or any of its subdomains (the "Sites"), you are agreeing to be bound by these terms of service, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in the Sites are protected by applicable copyright and trademark law.
+By accessing the websites at https://base58.capital/, https://base58.ch/ or any of its subdomains (the "Sites"), you are agreeing to be bound by these terms of service, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in the Sites are protected by applicable copyright and trademark law.
 
 ## 2. Use License
 
