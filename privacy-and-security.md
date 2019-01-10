@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy and Security
 
 Last modified: `December 2018`
 
@@ -8,7 +8,7 @@ Base58 Capital AG (&quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates 
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible on [GitHub](https://raw.githubusercontent.com/base58capital/legal/master/terms-of-service.md).
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy and Security Policy, terms used in this Privacy and Security Policy have the same meanings as in our Terms and Conditions, accessible on [GitHub](https://raw.githubusercontent.com/base58capital/legal/master/terms-of-service.md).
 
 ## 2. Definitions
 
@@ -28,7 +28,7 @@ Cookies are small pieces of data stored on a User&#39;s device.
 
 Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed.
 
-For the purpose of this Privacy Policy, we are a Data Controller of your data.
+For the purpose of this Privacy and Security Policy, we are a Data Controller of your data.
 
 ###  Data Processor (or Service Providers)
 
@@ -95,7 +95,7 @@ Base58 Capital AG uses the collected data for various purposes:
 
 ## 5. Retention of Data
 
-Base58 Capital AG will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+Base58 Capital AG will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy and Security Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
 Base58 Capital AG will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
@@ -105,9 +105,9 @@ Your information, including Personal Data, may be transferred to — and maintai
 
 If you are located outside Switzerland and choose to provide information to us, please note that we transfer the data, including Personal Data, to Switzerland and process it there.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Your consent to this Privacy and Security Policy followed by your submission of such information represents your agreement to that transfer.
 
-Base58 Capital AG will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Base58 Capital AG will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy and Security Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ## 7. Disclosure Of Data
 
@@ -167,7 +167,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 ## 12. Links To Other Sites
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party&#39;s site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party&#39;s site. We strongly advise you to review the Privacy and Security Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
@@ -177,17 +177,17 @@ Our Service does not address anyone under the age of 13 (&quot;Children&quot;).
 
 We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
-## 14. Changes To This Privacy Policy
+## 14. Changes To This Privacy and Security Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy and Security Policy from time to time. We will notify you of any changes by posting the new Privacy and Security Policy on this page.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the &quot;effective date&quot; at the top of this Privacy Policy.
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the &quot;effective date&quot; at the top of this Privacy and Security Policy.
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+You are advised to review this Privacy and Security Policy periodically for any changes. Changes to this Privacy and Security Policy are effective when they are posted on this page.
 
 ## 15. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us:
+If you have any questions about this Privacy and Security Policy, please contact us:
 
 - By email: privacy@base58.ch
 - By mail: Bösch 80A, 6331 Hünenberg, Switzerland
