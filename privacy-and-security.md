@@ -4,7 +4,7 @@ Last modified: `January 2019`
 
 ## 1. General
 
-Base58 Capital AG (&quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates the Base58 cmsx application available on https://cmsx.base58.ch/ (the &quot;Service&quot;).
+Base58 Capital AG (&quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates the websites and application available on https://base58.capital, https://base58.ch/ or any of its subdomains (the &quot;Service&quot;).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
